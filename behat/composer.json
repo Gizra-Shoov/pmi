@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://www.pmi.com/marketpages/Pages/market_he_il.aspx",
+  "description": "Functional testing for http://www.pmi.com/marketpages/Pages/market_he_il.aspx site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
